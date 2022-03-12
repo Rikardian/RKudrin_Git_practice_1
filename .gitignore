@@ -5,5 +5,4 @@
 .idea_copy/*
 !.idea_copy/workspace.xml
 **/build/*
-!build.*
 !**/module2.jar
